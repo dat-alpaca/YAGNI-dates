@@ -1,0 +1,16 @@
+Invalid day of the year (1-365)
+Choose a day of the year (1-365): 
+The corresponding month is: %s
+The corresponding day is: %d
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December

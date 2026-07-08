@@ -1,0 +1,16 @@
+Dia do ano inválido (1-365)
+Escolha um dia do ano (1-365): 
+O mês correspondente é: %s
+O dia correspondente é: %d
+Janeiro
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro

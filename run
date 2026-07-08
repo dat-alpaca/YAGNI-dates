@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+meson setup build --reconfigure --prefix=$(pwd)/deploy
+cd build
+meson install
+meson compile
+
+cd ../deploy
+clear
+./yagni $1
